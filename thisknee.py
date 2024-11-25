@@ -1,0 +1,2 @@
+def white():
+  return "black"
